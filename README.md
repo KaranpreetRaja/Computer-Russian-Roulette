@@ -1,5 +1,5 @@
 # Computer-Russian-Roulette
-Do you want to play first-person shooters and other boring games? Introducing the new revolutionary multiplayer game to play with friends (if you have any)!
+Are you bored of first-person shooters and other boring games? Introducing the new revolutionary multiplayer game to play with friends (if you have any)!
 
 ## This could be you!
 ![](https://media.tenor.com/LoFtBM4dGaoAAAAd/k-on-anime.gif)
